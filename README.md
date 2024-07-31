@@ -9,6 +9,8 @@ We also visually represent these expenses in charts using CharJS and also learn 
 ### Add Expense Section
 ![Screenshot Description](https://github.com/void1712/Expense-Tracker/blob/main/first.png)
 
+---
+
 ### Showcasing all the expenses
 ![Screenshot Description](https://github.com/void1712/Expense-Tracker/blob/main/second.png)
 
