@@ -9,13 +9,29 @@ We also visually represent these expenses in charts using CharJS and also learn 
 ### Add Expense Section
 ![Screenshot Description](https://github.com/void1712/Expense-Tracker/blob/main/first.png)
 
+
+
 ---
+
+
 
 ### Showcasing all the expenses
 ![Screenshot Description](https://github.com/void1712/Expense-Tracker/blob/main/second.png)
 
+
+
+---
+
+
+
 ### Past days expense sum and categorical expenses
 ![Screenshot Description](https://github.com/void1712/Expense-Tracker/blob/main/third.png)
+
+
+
+---
+
+
 
 ### Some charts to show the statistics
 ![Screenshot Description](https://github.com/void1712/Expense-Tracker/blob/main/four.png)
